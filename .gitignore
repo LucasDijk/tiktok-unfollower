@@ -1,0 +1,5 @@
+# Ignore .7z files
+*.7z
+
+# Ignore .zip files
+*.zip

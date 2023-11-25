@@ -1,0 +1,18 @@
+#unfollowButton {
+  display: block;
+  margin: 10px auto;
+  background-color: #ff6347; /* Tomato */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#unfollowButton:hover {
+  background-color: #e55039; /* Darker Tomato */
+}
